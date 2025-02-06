@@ -19,6 +19,7 @@ Este projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 - **Spring Boot** (para simplificar a criação de APIs REST).
 - **JPA / Hibernate** (para mapeamento objeto-relacional e persistência de dados).
 - **Maven** (para gerenciamento de dependências e build do projeto).
+- **Postman** (para teste de requisições).
 
 ## Diagrama de Classes
 A estrutura do projeto segue o seguinte modelo de classes:
