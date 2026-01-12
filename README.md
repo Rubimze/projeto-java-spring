@@ -1,5 +1,5 @@
 <h2>
-  Projeto DSList - Intensivão Java Spring
+  Projeto DSList - Java Spring
 </h2>
 
 ## Sobre o Projeto
